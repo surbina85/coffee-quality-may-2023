@@ -7,3 +7,5 @@ This is a simple analysis of the impact of altitude on the quality of coffee, re
 Process:
 - Data Cleaning using Microsoft Power Query
 - Data Visualisation with Tableau
+
+![Dashboard image](./Altitude%20and%20Quality%20dashboard.png)
